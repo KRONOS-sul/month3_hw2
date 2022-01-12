@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">month3_hw2</string>
+    <string name="Recipient_email">Recipient Email</string>
+    <string name="Message">Message</string>
+    <string name="subject">Subject</string>
+    <string name="send">Send</string>
+</resources>
